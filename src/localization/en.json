@@ -1,0 +1,12 @@
+{
+    "signin_button": "Sign In",
+    "signup_button": "Sign Up.",
+    "email": "Email",
+    "password": "Password",
+    "change_language": "Change Language",
+    "confirm": "Confirm",
+    "welcome": "Hello, {{userName}}",
+    "my_orders": "My Orders",
+    "language": "Language",
+    "logout": "Logout"
+}

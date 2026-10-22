@@ -1,0 +1,17 @@
+{
+  "signin_button": "Đăng Nhập",
+  "signup_button": "Đăng Ký",
+  "email": "Thư điện tử",
+  "password": "Mật khẩu",
+  "change_language": "Đổi ngôn ngữ",
+  "confirm": "Xác nhận",
+  "welcome": "Xin chào, {{userName}}",
+  "my_orders": "Đơn hàng của tôi",
+  "language": "Ngôn ngữ",
+  "logout": "Đăng xuất",
+
+  "_comment": "======== Empty Cart Screen ==========",
+  "start-shopping": "Bắt đầu mua sắm",
+  "your-cart-is-empty": "Giỏ hàng trống",
+  "browse our-product": "Tìm kiếm sản xuất của chúng tôi và chọn một món mà bạn cần"
+}
